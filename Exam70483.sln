@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFormatter", "ClassFormatter\ClassFormatter.csproj", "{9742C29E-A3D9-46DB-B8C8-A2841B03CF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashValueSHA1", "HashValueSHA1\HashValueSHA1.csproj", "{52BEAE2A-BA9A-4CF5-9BD9-1DEB7F4F5ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9742C29E-A3D9-46DB-B8C8-A2841B03CF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9742C29E-A3D9-46DB-B8C8-A2841B03CF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9742C29E-A3D9-46DB-B8C8-A2841B03CF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BEAE2A-BA9A-4CF5-9BD9-1DEB7F4F5ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BEAE2A-BA9A-4CF5-9BD9-1DEB7F4F5ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BEAE2A-BA9A-4CF5-9BD9-1DEB7F4F5ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BEAE2A-BA9A-4CF5-9BD9-1DEB7F4F5ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
