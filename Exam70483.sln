@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassFormatter", "ClassFormatter\ClassFormatter.csproj", "{9742C29E-A3D9-46DB-B8C8-A2841B03CF9B}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BriefMe.Now.Q13", "BriefMe.Now.Q13\BriefMe.Now.Q13.csproj", "{3146D182-90BA-4196-BBBA-7523F0FB866B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BriefMeNow.Q16", "BriefMeNow.Q16\BriefMeNow.Q16.csproj", "{D10E7FE9-7C82-4178-9206-46D6001042B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BriefMeNow.ListImplementations", "BriefMeNow.ListImplementations\BriefMeNow.ListImplementations.csproj", "{782043A9-7099-495D-BFA2-A33553462915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D10E7FE9-7C82-4178-9206-46D6001042B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D10E7FE9-7C82-4178-9206-46D6001042B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D10E7FE9-7C82-4178-9206-46D6001042B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782043A9-7099-495D-BFA2-A33553462915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782043A9-7099-495D-BFA2-A33553462915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782043A9-7099-495D-BFA2-A33553462915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782043A9-7099-495D-BFA2-A33553462915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
